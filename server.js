@@ -142,7 +142,7 @@ ab.once('open', function(){
 });
 
 // Connect to the Mongo DB
-mongoose.connect("mongodb://localhost/scrapeHw");
+//mongoose.connect("mongodb://localhost/scrapeHw");
 
 // Routes
 
